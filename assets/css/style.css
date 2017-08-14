@@ -1,0 +1,85 @@
+body {
+    background-image: url("../images/background.jpg");
+
+}
+
+
+
+.header {
+	color:white;
+	font-weight:bold;
+	font-size:32px;
+	width:250px;
+	height:75px;
+	text-align:center;
+	padding-top:20px;
+	background-color: orange;
+	margin:5px;
+
+
+}
+
+.rules {
+	width:400px;
+	height:400px;
+	background-color: pink;
+	color:green;
+	margin-left: 5px;
+}
+
+li {
+	margin-bottom: 10px;
+	padding-top: 20px;
+	font-weight:bold;
+}
+
+.pic {
+	height:100px;
+	width:100px;
+	margin:5px;
+}
+
+.number {
+	width:150px;
+	height:100px;
+	margin:5px;
+	background-color: lightgreen;
+	font-size:30px;
+
+}
+
+
+.score {
+	width:75px;
+	height:100px;
+	background-color:aqua;
+	margin:5px; 
+
+}
+
+#wins {
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+#yourScore {
+	color:white;
+	width:150px;
+	height:20px;
+	background-color:teal;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+
+
+#total {
+	font-size:30px;
+	color:white;
+	width:150px;
+	height:100px;
+	background-color:teal;
+	margin-bottom:20px;
+	
+}
